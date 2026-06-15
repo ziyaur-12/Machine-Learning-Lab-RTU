@@ -1,7 +1,10 @@
 import pandas as pd
+import os
 
 # load dataset
-msg = pd.read_csv('naivetext.csv', names=['message','label'])
+script_dir = os.path.dirname(os.path.abspath(__file__))
+csv_path = os.path.join(script_dir, 'naivetext.csv')
+msg = pd.read_csv(csv_path, names=['message','label'])
 print('The dimensions of the dataset', msg.shape)
 
 # convert labels into numbers
