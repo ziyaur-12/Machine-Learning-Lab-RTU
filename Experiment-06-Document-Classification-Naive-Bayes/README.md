@@ -14,9 +14,9 @@ To implement document classification using the Naïve Bayes algorithm and evalua
 
 ## Introduction
 
-Document Classification is one of the most common applications of Machine Learning and Natural Language Processing (NLP). The goal is to automatically assign documents to predefined categories based on their content.
+Document Classification is one of the most important applications of Machine Learning and Natural Language Processing (NLP). It involves automatically assigning documents to predefined categories based on their content.
 
-Naïve Bayes is a probabilistic classifier based on Bayes' Theorem and assumes that the features are conditionally independent.
+Naïve Bayes is a probabilistic machine learning algorithm based on Bayes' Theorem. It is widely used for text classification because of its simplicity, efficiency, and high accuracy.
 
 ---
 
@@ -24,16 +24,16 @@ Naïve Bayes is a probabilistic classifier based on Bayes' Theorem and assumes t
 
 Bayes' Theorem:
 
-P(C|D) = (P(D|C) × P(C)) / P(D)
+**P(C|D) = (P(D|C) × P(C)) / P(D)**
 
 Where:
 
-* P(C|D) = Posterior Probability
-* P(D|C) = Likelihood
-* P(C) = Prior Probability
-* P(D) = Evidence
+* **P(C|D)** = Posterior Probability
+* **P(D|C)** = Likelihood
+* **P(C)** = Prior Probability
+* **P(D)** = Evidence
 
-The classifier predicts the class with the highest posterior probability.
+The classifier predicts the class that has the highest posterior probability.
 
 ---
 
@@ -53,6 +53,8 @@ The dataset contains sample text documents and their corresponding class labels 
 
 * `naive_based_exp6.py` – Python implementation of Document Classification using Naïve Bayes
 * `naivetext.csv` – Dataset used for training and testing
+* `output_1.png` – Output screenshot showing classification results
+* `output_2.png` – Output screenshot showing performance metrics
 * `README.md` – Experiment documentation
 
 ---
@@ -83,19 +85,31 @@ python naive_based_exp6.py
 
 Accuracy measures the percentage of correctly classified documents.
 
-Accuracy = (TP + TN) / (TP + TN + FP + FN)
+**Accuracy = (TP + TN) / (TP + TN + FP + FN)**
 
 ### Precision
 
 Precision measures how many predicted positive documents are actually positive.
 
-Precision = TP / (TP + FP)
+**Precision = TP / (TP + FP)**
 
 ### Recall
 
 Recall measures how many actual positive documents are correctly identified.
 
-Recall = TP / (TP + FN)
+**Recall = TP / (TP + FN)**
+
+---
+
+## Output Screenshots
+
+### Classification Result
+
+![Output 1](output_1.png)
+
+### Accuracy, Precision and Recall
+
+![Output 2](output_2.png)
 
 ---
 
@@ -106,6 +120,7 @@ Recall = TP / (TP + FN)
 * Sentiment Analysis
 * Text Categorization
 * Document Organization
+* Content Filtering
 
 ---
 
@@ -115,6 +130,7 @@ Recall = TP / (TP + FN)
 * Fast training and prediction
 * Effective for text classification
 * Works well with large datasets
+* Requires less training data
 
 ---
 
