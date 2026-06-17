@@ -34,9 +34,7 @@ def main() -> None:
 			("exang", "heartdisease"),
 			("cp", "heartdisease"),
 			("heartdisease", "restecg"),
-			("heartdisease", "chol"), 1
-
-			
+			("heartdisease", "chol"),
 		]
 	)
 
