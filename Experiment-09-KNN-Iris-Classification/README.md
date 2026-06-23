@@ -66,11 +66,12 @@ Dataset Features:
 
 ## Files Included
 
-* `ml_exp9.py` – Python implementation of KNN Classification
-* `iris.csv` – Iris Dataset
-* `output_1.png` – Correct predictions output
-* `output_2.png` – Wrong predictions and accuracy output
-* `README.md` – Experiment documentation
+- ml_exp9.py – Original KNN implementation
+- ml_exp9_1.py – Alternative working KNN implementation
+- 9_dataset.csv – Iris dataset
+- output_1.png – Correct predictions
+- output_2.png – Wrong predictions and accuracy
+- README.md – Documentation
 
 ---
 
