@@ -2,7 +2,9 @@
 
 ## Aim
 
-To implement the K-Nearest Neighbour (KNN) algorithm for classifying the Iris dataset and print both correct and incorrect predictions.
+Write a program to implement k-Nearest Neighbour algorithm to classify the 
+iris data set. Print both correct and wrong predictions. Java/Python ML library 
+classes can be used for this problem.
 
 ---
 
