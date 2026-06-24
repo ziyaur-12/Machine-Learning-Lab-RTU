@@ -2,8 +2,8 @@
 
 ## 📌 Aim
 
-To build an Artificial Neural Network by implementing the Backpropagation Algorithm and test the same using appropriate dataset values.
-
+Build an Artificial Neural Network by implementing the Backpropagation 
+algorithm and test the same using appropriate data sets 
 ---
 
 # 📘 Theory
