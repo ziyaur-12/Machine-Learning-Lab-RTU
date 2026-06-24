@@ -2,8 +2,9 @@
 
 ## Aim
 
-To implement the Naïve Bayesian Classifier for a sample training dataset stored in a CSV file and compute the accuracy of the classifier using test datasets.
-
+Write a program to implement the naïve Bayesian classifier for a sample 
+training data set stored as a .CSV file. Compute the accuracy of the classifier, 
+considering few test data sets. 
 ---
 
 ## Objective
