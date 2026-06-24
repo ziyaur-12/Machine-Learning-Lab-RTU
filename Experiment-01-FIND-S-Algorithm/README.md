@@ -1,8 +1,9 @@
 # Experiment 1 - FIND-S Algorithm in Machine Learning (RTU)
 
 ## Aim
-To implement and demonstrate the FIND-S algorithm for finding the most specific hypothesis based on a given set of training data samples.
-
+ Implement and demonstrate the FIND-Salgorithm for finding the most specific 
+hypothesis based on a given set of training data samples. Read the training 
+data from a .CSV file. 
 ---
 
 ## Introduction
