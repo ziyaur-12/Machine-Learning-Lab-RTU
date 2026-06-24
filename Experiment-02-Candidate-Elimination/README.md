@@ -1,8 +1,9 @@
 # Experiment 2 - Candidate Elimination Algorithm in Machine Learning (RTU)
 
 ## Aim
-To implement and demonstrate the Candidate Elimination algorithm using a given set of training data samples.
-
+2 For a given set of training data examples stored in a .CSV file, implement and 
+demonstrate the Candidate-Elimination algorithmto output a description of the 
+set of all hypotheses consistent with the training examples.
 ---
 
 ## Introduction
