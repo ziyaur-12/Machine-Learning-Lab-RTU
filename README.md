@@ -50,7 +50,7 @@ This repository contains the implementation of the following **Machine Learning 
 | **02** | For a given set of training data examples stored in a .CSV file, implement and demonstrate the Candidate-Elimination algorithmto output a description of the set of all hypotheses consistent with the training examples. | ✅ Completed |
 | **03** | Write a program to demonstrate the working of the decision tree based ID3 algorithm. Use an appropriate data set for building the decision tree and apply this knowledge toclassify a new sample.                                         | ✅ Completed |
 | **04** | Build an Artificial Neural Network by implementing the Backpropagation algorithm and test the same using appropriate data sets.         | ✅ Completed |
-| **05** | Implement the **Naïve Bayesian Classifier** using a CSV dataset and compute the classification accuracy.                                         | ✅ Completed |
+| **05** | Write a program to implement the naïve Bayesian classifier for a sample training data set stored as a .CSV file. Compute the accuracy of the classifier, considering few test data sets.                                          | ✅ Completed |
 | **06** | Perform **Document Classification using the Naïve Bayesian Classifier** and calculate Accuracy, Precision, and Recall.                           | ✅ Completed |
 | **07** | Construct a **Bayesian Network** using the Heart Disease dataset to diagnose heart disease using Python ML libraries.                            | ✅ Completed |
 | **08** | Apply the **Expectation Maximization (EM) Algorithm** and compare its clustering performance with the **K-Means Algorithm** on the same dataset. | ✅ Completed |
