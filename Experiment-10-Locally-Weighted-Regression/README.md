@@ -2,8 +2,9 @@
 
 ## Aim
 
-To implement the Non-Parametric Locally Weighted Regression (LWR) algorithm for fitting data points and visualize the fitted regression curve using graphs.
-
+Implement the non-parametric Locally Weighted Regression algorithm in order 
+to fit data points. Select appropriate data set for your experiment and draw 
+graphs. 
 ---
 
 ## Objective
