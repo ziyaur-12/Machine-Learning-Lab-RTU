@@ -1,37 +1,91 @@
-# Machine Learning Lab (RTU)
+# 🤖 Machine Learning Lab RTU (Python)
 
 <div align="center">
 
-# Machine Learning Laboratory Experiments
+# Machine Learning Lab Experiments - RTU
 
 ### Rajasthan Technical University (RTU)
 
 **B.Tech Artificial Intelligence & Data Science**
 
-Python | Scikit-Learn | Pandas | NumPy | Matplotlib | Machine Learning
+Python | Machine Learning | Scikit-Learn | NumPy | Pandas | Matplotlib
+
+⭐ Complete RTU Machine Learning Lab Programs with Source Code, Datasets, Output Screenshots and Documentation.
 
 </div>
 
 ---
 
-## Project Overview
+# 📖 About This Repository
 
-This repository contains the complete implementation of **Machine Learning Laboratory Experiments** prescribed by **Rajasthan Technical University (RTU)**.
+This repository contains the complete implementation of **Machine Learning Lab (RTU)** experiments for **Rajasthan Technical University (RTU)**.
 
-Each experiment includes:
+The repository is designed for:
 
-- Python Implementation
-- Dataset
-- Output Screenshots
-- Detailed Documentation
-- Individual README
-- Git Commit History
+* B.Tech AI & DS Students
+* Computer Science Students
+* RTU Practical Lab
+* Machine Learning Beginners
+* Python Machine Learning Practice
+* Placement Preparation
+* Academic Projects
 
-The experiments cover supervised learning, concept learning, Bayesian learning, clustering, regression, and classification algorithms.
+Every experiment includes:
+
+* ✅ Python Source Code
+* ✅ Dataset
+* ✅ Output Screenshots
+* ✅ Individual README
+* ✅ Step-by-Step Documentation
 
 ---
 
-# Repository Structure
+# 📂 Experiments
+
+| Experiment    | Topic                                           |
+| ------------- | ----------------------------------------------- |
+| Experiment 01 | FIND-S Algorithm                                |
+| Experiment 02 | Candidate Elimination Algorithm                 |
+| Experiment 03 | Decision Tree using ID3                         |
+| Experiment 04 | Artificial Neural Network using Backpropagation |
+| Experiment 05 | Naïve Bayes Classifier                          |
+| Experiment 06 | Document Classification using Naïve Bayes       |
+| Experiment 07 | Bayesian Network for Heart Disease Prediction   |
+| Experiment 08 | EM Algorithm vs K-Means Clustering              |
+| Experiment 09 | K-Nearest Neighbour (KNN) Classification        |
+| Experiment 10 | Locally Weighted Regression (LWR)               |
+
+---
+
+# 🚀 Features
+
+* Complete RTU Machine Learning Lab Programs
+* Python Implementation
+* Beginner Friendly Code
+* Proper Folder Structure
+* Output Screenshots
+* Datasets Included
+* Detailed README for Every Experiment
+* Easy to Understand
+* Ready for Practical Examination
+* Recruiter Friendly Repository
+
+---
+
+# 🛠 Technologies Used
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-Learn
+* pgmpy
+* VS Code
+* Git & GitHub
+
+---
+
+# 📁 Repository Structure
 
 ```text
 Machine-Learning-Lab-RTU
@@ -52,88 +106,27 @@ Machine-Learning-Lab-RTU
 
 ---
 
-# Experiments
+# ▶️ Getting Started
 
-| Exp. No. | Experiment | Status |
-|----------|------------|--------|
-| 01 | FIND-S Algorithm | ✅ |
-| 02 | Candidate Elimination Algorithm | ✅ |
-| 03 | Decision Tree using ID3 Algorithm | ✅ |
-| 04 | Artificial Neural Network using Backpropagation | ✅ |
-| 05 | Naïve Bayes Classifier | ✅ |
-| 06 | Document Classification using Naïve Bayes | ✅ |
-| 07 | Bayesian Network for Heart Disease Prediction | ✅ |
-| 08 | Expectation Maximization vs K-Means Clustering | ✅ |
-| 09 | K-Nearest Neighbour (KNN) Classification | ✅ |
-| 10 | Locally Weighted Regression (LWR) | ✅ |
-
----
-
-# Algorithms Covered
-
-- Concept Learning
-- FIND-S Algorithm
-- Candidate Elimination
-- Decision Tree (ID3)
-- Artificial Neural Networks
-- Backpropagation
-- Naïve Bayes
-- Bayesian Networks
-- EM Clustering
-- K-Means Clustering
-- K-Nearest Neighbour
-- Locally Weighted Regression
-
----
-
-# Technologies Used
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-Learn
-- PGMPY
-- Jupyter Notebook / VS Code
-
----
-
-# Learning Outcomes
-
-Through these experiments, the following Machine Learning concepts were implemented:
-
-- Concept Learning
-- Classification
-- Regression
-- Clustering
-- Probabilistic Learning
-- Artificial Neural Networks
-- Data Visualization
-- Performance Evaluation
-
----
-
-# How to Run
-
-Clone the repository
+Clone the repository:
 
 ```bash
 git clone https://github.com/ziyaur-12/Machine-Learning-Lab-RTU.git
 ```
 
-Open the repository
+Go to the project directory:
 
 ```bash
 cd Machine-Learning-Lab-RTU
 ```
 
-Install dependencies
+Install dependencies:
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn pgmpy
 ```
 
-Run any experiment
+Run any experiment:
 
 ```bash
 python Experiment-05-Naive-Bayes-Classifier/naive_based_exp5.py
@@ -141,23 +134,42 @@ python Experiment-05-Naive-Bayes-Classifier/naive_based_exp5.py
 
 ---
 
-# Repository Highlights
+# 🎯 Learning Outcomes
 
-- 10 Complete RTU Machine Learning Lab Experiments
-- Well Structured Repository
-- Individual Documentation for Every Experiment
-- Python Source Code
-- Datasets Included
-- Output Screenshots
-- Clean Git Commit History
+After completing these experiments, students will understand:
+
+* Concept Learning
+* Classification Algorithms
+* Regression Algorithms
+* Clustering Algorithms
+* Bayesian Learning
+* Artificial Neural Networks
+* Machine Learning Model Evaluation
+* Data Visualization using Python
 
 ---
 
-# Author
+# 🎓 RTU Machine Learning Lab Topics Covered
+
+* FIND-S Algorithm
+* Candidate Elimination
+* Decision Tree (ID3)
+* Artificial Neural Network
+* Backpropagation Algorithm
+* Naïve Bayes Classifier
+* Bayesian Network
+* Expectation Maximization (EM)
+* K-Means Clustering
+* K-Nearest Neighbour (KNN)
+* Locally Weighted Regression
+
+---
+
+# 👨‍💻 Author
 
 **Ziyaurrahman**
 
-B.Tech Artificial Intelligence & Data Science
+B.Tech – Artificial Intelligence & Data Science
 
 Arya College of Engineering & I.T., Jaipur
 
@@ -165,14 +177,6 @@ GitHub: https://github.com/ziyaur-12
 
 ---
 
-# License
+# ⭐ Support
 
-This project is created for educational and academic purposes under the RTU Machine Learning Laboratory curriculum.
-
----
-
-<div align="center">
-
-### ⭐ If you found this repository helpful, consider giving it a Star!
-
-</div>
+If this repository helped you in your RTU Machine Learning Lab practicals or Python Machine Learning learning journey, consider giving it a ⭐ on GitHub.
