@@ -46,8 +46,7 @@ This repository contains the implementation of the following **Machine Learning 
 
 | S.No   | Experiment                                                                                                                                       | Status      |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| **01** | Implement and demonstrate the FIND-Salgorithm for finding the most specific 
-hypothesis based on a given set of training data samples. Read the training 
+| **01** | Implement and demonstrate the FIND-Salgorithm for finding the most specific hypothesis based on a given set of training data samples. Read the training 
 data from a .CSV file.             | ✅ Completed |
 | **02** | Implement and demonstrate the **Candidate-Elimination Algorithm** to output the version space using training data stored in a CSV file.          | ✅ Completed |
 | **03** | Demonstrate the **Decision Tree (ID3) Algorithm** using an appropriate dataset and classify a new sample.                                        | ✅ Completed |
