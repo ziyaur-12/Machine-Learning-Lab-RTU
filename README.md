@@ -52,7 +52,7 @@ This repository contains the implementation of the following **Machine Learning 
 | **04** | Build an Artificial Neural Network by implementing the Backpropagation algorithm and test the same using appropriate data sets.         | ✅ Completed |
 | **05** | Write a program to implement the naïve Bayesian classifier for a sample training data set stored as a .CSV file. Compute the accuracy of the classifier, considering few test data sets.                                          | ✅ Completed |
 | **06** | Assuming a set of documents that need to be classified, use the naïve Bayesian Classifier model to perform this task. Built-in Java classes/API can be used to write the program. Calculate the accuracy, precision, and recall for your data set.                            | ✅ Completed |
-| **07** | Construct a **Bayesian Network** using the Heart Disease dataset to diagnose heart disease using Python ML libraries.                            | ✅ Completed |
+| **07** | Write a program to construct aBayesian network considering medical data. Use this model to demonstrate the diagnosis of heart patients using standard Heart Disease Data Set. You can use Java/Python ML library classes/API.                             | ✅ Completed |
 | **08** | Apply the **Expectation Maximization (EM) Algorithm** and compare its clustering performance with the **K-Means Algorithm** on the same dataset. | ✅ Completed |
 | **09** | Implement the **k-Nearest Neighbour (KNN) Algorithm** to classify the Iris dataset and display correct as well as incorrect predictions.         | ✅ Completed |
 | **10** | Implement the **Non-Parametric Locally Weighted Regression (LWR) Algorithm** to fit data points and visualize the regression graph.              | ✅ Completed |
