@@ -40,22 +40,43 @@ Every experiment includes:
 
 ---
 
-# 📂 Experiments
+## 📚 RTU Machine Learning Lab Experiments
 
-| Experiment    | Topic                                           |
-| ------------- | ----------------------------------------------- |
-| Experiment 01 | FIND-S Algorithm                                |
-| Experiment 02 | Candidate Elimination Algorithm                 |
-| Experiment 03 | Decision Tree using ID3                         |
-| Experiment 04 | Artificial Neural Network using Backpropagation |
-| Experiment 05 | Naïve Bayes Classifier                          |
-| Experiment 06 | Document Classification using Naïve Bayes       |
-| Experiment 07 | Bayesian Network for Heart Disease Prediction   |
-| Experiment 08 | EM Algorithm vs K-Means Clustering              |
-| Experiment 09 | K-Nearest Neighbour (KNN) Classification        |
-| Experiment 10 | Locally Weighted Regression (LWR)               |
+This repository contains the implementation of the following **Machine Learning Laboratory experiments prescribed by Rajasthan Technical University (RTU)**.
+
+| S.No   | Experiment                                                                                                                                       | Status      |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| **01** | Implement and demonstrate the **FIND-S Algorithm** for finding the most specific hypothesis using training data stored in a CSV file.            | ✅ Completed |
+| **02** | Implement and demonstrate the **Candidate-Elimination Algorithm** to output the version space using training data stored in a CSV file.          | ✅ Completed |
+| **03** | Demonstrate the **Decision Tree (ID3) Algorithm** using an appropriate dataset and classify a new sample.                                        | ✅ Completed |
+| **04** | Build an **Artificial Neural Network (ANN)** by implementing the **Backpropagation Algorithm** and test it using an appropriate dataset.         | ✅ Completed |
+| **05** | Implement the **Naïve Bayesian Classifier** using a CSV dataset and compute the classification accuracy.                                         | ✅ Completed |
+| **06** | Perform **Document Classification using the Naïve Bayesian Classifier** and calculate Accuracy, Precision, and Recall.                           | ✅ Completed |
+| **07** | Construct a **Bayesian Network** using the Heart Disease dataset to diagnose heart disease using Python ML libraries.                            | ✅ Completed |
+| **08** | Apply the **Expectation Maximization (EM) Algorithm** and compare its clustering performance with the **K-Means Algorithm** on the same dataset. | ✅ Completed |
+| **09** | Implement the **k-Nearest Neighbour (KNN) Algorithm** to classify the Iris dataset and display correct as well as incorrect predictions.         | ✅ Completed |
+| **10** | Implement the **Non-Parametric Locally Weighted Regression (LWR) Algorithm** to fit data points and visualize the regression graph.              | ✅ Completed |
 
 ---
+
+## 🚀 Repository Highlights
+
+* ✅ All 10 RTU Machine Learning Lab Experiments
+* ✅ Python Implementations
+* ✅ Well-Documented Source Code
+* ✅ Datasets Included
+* ✅ Output Screenshots
+* ✅ Individual README for Every Experiment
+* ✅ Easy-to-Understand Folder Structure
+* ✅ Beginner-Friendly Machine Learning Programs
+* ✅ Suitable for RTU Practical Exams and Academic Reference
+
+---
+
+## 🎯 Keywords
+
+RTU Machine Learning Lab, Machine Learning Lab RTU, RTU ML Lab Programs, Python Machine Learning, FIND-S Algorithm, Candidate Elimination Algorithm, Decision Tree ID3, Artificial Neural Network, Backpropagation, Naïve Bayes Classifier, Document Classification, Bayesian Network, Heart Disease Prediction, EM Algorithm, K-Means Clustering, KNN Iris Classification, Locally Weighted Regression, Machine Learning Practical, RTU AI & DS Lab.
+
 
 # 🚀 Features
 
