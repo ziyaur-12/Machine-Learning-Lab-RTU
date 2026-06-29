@@ -47,7 +47,7 @@ This repository contains the implementation of the following **Machine Learning 
 | S.No   | Experiment                                                                                                                                       | Status      |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
 | **01** | Implement and demonstrate the FIND-Salgorithm for finding the most specific hypothesis based on a given set of training data samples. Read              the training data from a .CSV file. | ✅ Completed |
-| **02** | Implement and demonstrate the **Candidate-Elimination Algorithm** to output the version space using training data stored in a CSV file.          | ✅ Completed |
+| **02** | For a given set of training data examples stored in a .CSV file, implement and demonstrate the Candidate-Elimination algorithmto output a description of the set of all hypotheses consistent with the training examples. | ✅ Completed |
 | **03** | Demonstrate the **Decision Tree (ID3) Algorithm** using an appropriate dataset and classify a new sample.                                        | ✅ Completed |
 | **04** | Build an **Artificial Neural Network (ANN)** by implementing the **Backpropagation Algorithm** and test it using an appropriate dataset.         | ✅ Completed |
 | **05** | Implement the **Naïve Bayesian Classifier** using a CSV dataset and compute the classification accuracy.                                         | ✅ Completed |
