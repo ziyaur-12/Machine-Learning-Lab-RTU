@@ -55,7 +55,7 @@ This repository contains the implementation of the following **Machine Learning 
 | **07** | Write a program to construct aBayesian network considering medical data. Use this model to demonstrate the diagnosis of heart patients using standard Heart Disease Data Set. You can use Java/Python ML library classes/API.                             | ✅ Completed |
 | **08** | Apply EM algorithm to cluster a set of data stored in a .CSV file. Use the same data set for clustering using k-Means algorithm. Compare the results of these two algorithms and comment on the quality of clustering. You can add Java/Python ML library classes/API in the program. | ✅ Completed |
 | **09** | Write a program to implement k-Nearest Neighbour algorithm to classify the iris data set. Print both correct and wrong predictions. Java/Python ML library classes can be used for this problem.          | ✅ Completed |
-| **10** | Implement the **Non-Parametric Locally Weighted Regression (LWR) Algorithm** to fit data points and visualize the regression graph.              | ✅ Completed |
+| **10** | Implement the non-parametric Locally Weighted Regression algorithm in order to fit data points. Select appropriate data set for your experiment and draw graphs.              | ✅ Completed |
 
 ---
 
