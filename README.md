@@ -46,6 +46,7 @@ This repository contains the implementation of the following **Machine Learning 
 
 | S.No   | Experiment                                                                                                                                       | Status      |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+<<<<<<< HEAD
 | **01** | Implement and demonstrate the FIND-Salgorithm for finding the most specific hypothesis based on a given set of training data samples. Read              the training data from a .CSV file. | ✅ Completed |
 | **02** | For a given set of training data examples stored in a .CSV file, implement and demonstrate the Candidate-Elimination algorithmto output a description of the set of all hypotheses consistent with the training examples. | ✅ Completed |
 | **03** | Write a program to demonstrate the working of the decision tree based ID3 algorithm. Use an appropriate data set for building the decision tree and apply this knowledge toclassify a new sample.                                         | ✅ Completed |
@@ -56,6 +57,22 @@ This repository contains the implementation of the following **Machine Learning 
 | **08** | Apply EM algorithm to cluster a set of data stored in a .CSV file. Use the same data set for clustering using k-Means algorithm. Compare the results of these two algorithms and comment on the quality of clustering. You can add Java/Python ML library classes/API in the program. | ✅ Completed |
 | **09** | Write a program to implement k-Nearest Neighbour algorithm to classify the iris data set. Print both correct and wrong predictions. Java/Python ML library classes can be used for this problem.          | ✅ Completed |
 | **10** | Implement the non-parametric Locally Weighted Regression algorithm in order to fit data points. Select appropriate data set for your experiment and draw graphs.              | ✅ Completed |
+=======
+| **01** | Implement and demonstrate the FIND-Salgorithm for finding the most specific 
+hypothesis based on a given set of training data samples. Read the training 
+data from a .CSV file.            | ✅ Completed |
+| **02** | For a given set of training data examples stored in a .CSV file, implement and 
+demonstrate the Candidate-Elimination algorithmto output a description of the 
+set of all hypotheses consistent with the training example.          | ✅ Completed |
+| **03** | Demonstrate the **Decision Tree (ID3) Algorithm** using an appropriate dataset and classify a new sample.                                        | ✅ Completed |
+| **04** | Build an **Artificial Neural Network (ANN)** by implementing the **Backpropagation Algorithm** and test it using an appropriate dataset.         | ✅ Completed |
+| **05** | Implement the **Naïve Bayesian Classifier** using a CSV dataset and compute the classification accuracy.                                         | ✅ Completed |
+| **06** | Perform **Document Classification using the Naïve Bayesian Classifier** and calculate Accuracy, Precision, and Recall.                           | ✅ Completed |
+| **07** | Construct a **Bayesian Network** using the Heart Disease dataset to diagnose heart disease using Python ML libraries.                            | ✅ Completed |
+| **08** | Apply the **Expectation Maximization (EM) Algorithm** and compare its clustering performance with the **K-Means Algorithm** on the same dataset. | ✅ Completed |
+| **09** | Implement the **k-Nearest Neighbour (KNN) Algorithm** to classify the Iris dataset and display correct as well as incorrect predictions.         | ✅ Completed |
+| **10** | Implement the **Non-Parametric Locally Weighted Regression (LWR) Algorithm** to fit data points and visualize the regression graph.              | ✅ Completed |
+>>>>>>> ed86a42 (Updated repository README and added second LWR output)
 
 ---
 
